@@ -12,3 +12,17 @@ Day 2: July 31, 2019
 Today's Progress : I implemented transfer learning for Convolutional Neural Networks using Tensorflow. I used a pre-trained model called ImageNet for the image classification.
 Thoughts : Pre-trained models save a lot of time. Use these if only you understand whats going behind it. 
 
+
+Day 3: July 31, 2019
+Today's Progress : I implemented transfer learning for Convolutional Neural Networks using Tensorflow. I used a pre-trained model called ImageNet for the image classification.
+Thoughts : Pre-trained models save a lot of time. Use these if only you understand whats going behind it. 
+
+
+Day 4: August 1, 2019
+Today's Progress : I started learning tensorflow from scratch. That sounds different right because yesterday I was learning CNN with tensorflow. I learnt about the tf.Variables, tf.constants, tf.placeholders, how tf uses graphs to solve its problems
+Thoughts : I used to think that keras that was what I was using and thinking that tensorflow is pretty easy. Its not the case.  
+
+Day 5: August 2, 2019
+Today's Progress : I started learning tensorflow from scratch. That sounds different right because yesterday I was learning CNN with tensorflow. I learnt about the tf.Variables, tf.constants, tf.placeholders, how tf uses graphs to solve its problems
+Thoughts : I used to think that keras that was what I was using and thinking that tensorflow is pretty easy. Its not the case.
+
