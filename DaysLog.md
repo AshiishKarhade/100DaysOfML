@@ -20,5 +20,7 @@
 **Today's Progress :** I started learning tensorflow from scratch. That sounds different right because yesterday I was learning CNN with tensorflow. I learnt about the tf.Variables, tf.constants, tf.placeholders, how tf uses graphs to solve its problems
 **Thoughts :** I used to think that keras that was what I was using and thinking that tensorflow is pretty easy. Its not the case.
 
-
+**Day 6, Day 7, Day 8: August 4, 2019 to August 6, 2019**
+**Today's Progress :** I took few moments off as my laptop was sick lol. I had to repair it. I learnt the implementation of CNN using tensorflow and tried my knowledge on MNIST dataset and then CIFAR-10 dataset. It was awesome. My model could predict about 92% on MNIST and about 75% on CIFAR-10. There's lot more to learn.
+**Thoughts :** I cannot live without my macbook air. The 10 hours when my laptop got faulty were the toughest for me. PS: I use my macbook air 7-hours a day on average.
 
